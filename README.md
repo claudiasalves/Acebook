@@ -1,6 +1,6 @@
 # Acebook
 
-In this project, myself and my team were tasked with working on an existing application, similar to Facebook. A significant part of the challenge was familiarising ourselves with the inherited codebase, as we worked to **improve and extend** it.
+In this project, we were tasked with working on an existing application, similar to Facebook. A significant part of the challenge was familiarising ourselves with the inherited codebase, as we worked to **improve and extend** it.
 
 # 🤝 Our Team
 * **[Ellie Priestley](https://github.com/elliepriestley)**
